@@ -13,3 +13,5 @@ http://www.oracle.com/technetwork/java/javase/tools-141261.html
 https://www.ibm.com/developerworks/library/j-5things8/index.html
 
 https://yq.aliyun.com/articles/2390
+
+常用工具：greys	jps	jstat	jstack	jmap	jhat	jcmd	jconsole	jinfo	visualvm
